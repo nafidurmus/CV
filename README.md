@@ -26,6 +26,9 @@
 [Instagram](www.instagram.com/nafidurmus)|
 [Facebook](https://www.facebook.com/nafi.durmus.35)
 
+## **Staj**
+Zebramo Inc. 2017 yaz stajı
+
 ## **Yetenekler**
 
 Java  
@@ -52,3 +55,4 @@ Prezi
   * Speak the Same Language 
   
  * **Hack'n Break 2016**
+ * **Hack'n Break 2017**
