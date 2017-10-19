@@ -1,4 +1,4 @@
-![CV](https://drive.google.com/drive/folders/0B0Aoy_XdooTvOEtwTzVZZVRFa0U)
+
 ## **Hakkımda**
 > Süleyman Demirel üniversitesi Bilgisayar mühendisliği 2. sınıf öğrencisiyim . Aktif olarak java ve ruby programlama dilleriyle ilgilenmekteyim. 
 
