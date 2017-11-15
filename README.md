@@ -26,6 +26,15 @@
 [Instagram](www.instagram.com/nafidurmus)|
 [Facebook](https://www.facebook.com/nafi.durmus.35)
 
+| Adres | Link |
+| ------ | ------ |
+| Github | [GitHub](www.github.com/nafidurmus) [PlGh] |
+| Linkedin | [Linkedin](https://www.linkedin.com/in/nafidurmus/) [PlGd] |
+| Twitter | [Twitter](www.twitter.com/nafidurmus) [PlOd] |
+| Instangram | [Instagram](www.instagram.com/nafidurmus) [PlMe] |
+| Facebook | [Facebook](https://www.facebook.com/nafi.durmus.35) [PlGa] |
+| Medium | [plugins/googleanalytics/README.md] [PlGa] |
+
 ## **Staj**
 Zebramo Inc. 2017 yaz stajı
 
