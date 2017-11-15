@@ -20,11 +20,6 @@
   * Fethiye Fatih Anadolu Lisesi   Matematik- Fen Bölümü
 
 ## **Bağlantılar**
-[GitHub](www.github.com/nafidurmus)|
-[Linkedin](https://www.linkedin.com/in/nafidurmus/)|
-[Twitter](www.twitter.com/nafidurmus)|
-[Instagram](www.instagram.com/nafidurmus)|
-[Facebook](https://www.facebook.com/nafi.durmus.35)
 
 | Adres | Link |
 | ------ | ------ |
@@ -45,6 +40,8 @@ Java
 MySQL 
 
 Prezi
+
+Ruby / Rails
 
 
 # Organizasyonlar ve Sertifikalar
