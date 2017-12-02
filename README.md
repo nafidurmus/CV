@@ -1,6 +1,6 @@
 
 ## **Hakkımda**
-> Süleyman Demirel üniversitesi Bilgisayar mühendisliği 2. sınıf öğrencisiyim . Aktif olarak java ve ruby programlama dilleriyle ilgilenmekteyim. 
+> Süleyman Demirel üniversitesi Bilgisayar mühendisliği 2. sınıf öğrencisiyim . Aktif olarak  ruby programlama dilleriyle ilgilenmekteyim. 
 
 
 ## **Kişisel Bilgiler**
